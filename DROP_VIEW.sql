@@ -1,0 +1,1 @@
+DROP VIEW materialized_view_cube;
